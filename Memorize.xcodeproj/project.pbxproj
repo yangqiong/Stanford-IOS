@@ -55,10 +55,10 @@
 		492E5CC327C734EE00B271FA /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				492E5CC427C734EE00B271FA /* MemorizeApp.swift */,
-				492E5CC627C734EE00B271FA /* ContentView.swift */,
 				492E5CD227C7A47E00B271FA /* MemoryGame.swift */,
 				492E5CD427C7A63700B271FA /* EmojiMemoryGame.swift */,
+				492E5CC627C734EE00B271FA /* ContentView.swift */,
+				492E5CC427C734EE00B271FA /* MemorizeApp.swift */,
 				492E5CC827C734EF00B271FA /* Assets.xcassets */,
 				492E5CCA27C734EF00B271FA /* Preview Content */,
 			);
